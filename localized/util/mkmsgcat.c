@@ -33,21 +33,21 @@ char buf[1024];
 
 char *OSF_COPYRIGHT = "$\n\
 $ Motif\n\
-$\n\
+$ \n\
 $ Copyright (c) 1987-2012, The Open Group. All rights reserved.\n\
-$\n\
+$ \n\
 $ These libraries and programs are free software; you can\n\
 $ redistribute them and/or modify them under the terms of the GNU\n\
 $ Lesser General Public License as published by the Free Software\n\
 $ Foundation; either version 2 of the License, or (at your option)\n\
 $ any later version.\n\
-$\n\
+$ \n\
 $ These libraries and programs are distributed in the hope that\n\
 $ they will be useful, but WITHOUT ANY WARRANTY; without even the\n\
 $ implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR\n\
 $ PURPOSE. See the GNU Lesser General Public License for more\n\
 $ details.\n\
-$\n\
+$ \n\
 $ You should have received a copy of the GNU Lesser General Public\n\
 $ License along with these librararies and programs; if not, write\n\
 $ to the Free Software Foundation, Inc., 51 Franklin Street, Fifth\n\
